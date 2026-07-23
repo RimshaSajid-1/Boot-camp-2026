@@ -1,0 +1,10 @@
+.box{
+margin: auto;
+height: 200px;
+width: 300px;
+padding: 20px;
+border: 3px solid black;
+border-radius: 10px;
+background-color: rgb(221, 184, 244);
+text-align: center;
+}
